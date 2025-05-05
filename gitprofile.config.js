@@ -10,7 +10,8 @@ const config = {
         projects: [
           'TuvyaMacklin.github.io',
           'Boss-Monster',
-          '4570H-23-web'
+          '4570H-23-web',
+          'MAC_CBS'
         ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
       },
     },
@@ -98,7 +99,11 @@ const config = {
         link: 'https://github.com/YCCS-Summer-2023-DLCV/Deep-Learning-in-Computer-Vision',
       },
       {
-        title: 'MAC-CBS'
+        title: 'MAC CBS',
+        description:
+          'Research into MAC-CBS as a potential new splitting method for resolving conflicts in a CBS algorithm, under the guidance of Dr. Dor Atzmon of Bar-Ilan University.',
+        imageUrl: 'https://avatars.githubusercontent.com/u/135040186?s=48&v=4',
+        link: 'https://github.com/TuvyaMacklin/MAC-CBS',
       },
     ],
     // Display blog posts from your medium or dev account. (Optional)
