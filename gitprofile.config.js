@@ -85,7 +85,7 @@ const config = {
         institution: 'Yeshiva University',
         degree: 'Bachelor of Sciences in Computer Science',
         from: '2021',
-        to: 'Current',
+        to: '2025',
       }
     ],
   
