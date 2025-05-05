@@ -7,7 +7,11 @@ const config = {
       limit: 10, // How many projects to display.
       exclude: {
         forks: true, // Forked projects will not be displayed if set to true.
-        projects: ['TuvyaMacklin.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+        projects: [
+          'TuvyaMacklin.github.io',
+          'Boss-Monster',
+          '4570H-23-web'
+        ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
       },
     },
     social: {
@@ -59,6 +63,13 @@ const config = {
         to: 'Summer of 2023',
         companyLink: 'https://www.sargarch.com',
       },
+        {
+            company: 'Bar-Ilan University',
+            position: 'Reseatcher',
+            from: 'June 2024',
+            to: 'July 2024',
+            companyLink: 'https://engineering.biu.ac.il/en/node/12692',
+        },
     ],
     /* certifications: [
       {
@@ -85,7 +96,10 @@ const config = {
           'Object detection and instance segmentation model created in the YU CS summer program',
         imageUrl: 'https://avatars.githubusercontent.com/u/135040186?s=48&v=4',
         link: 'https://github.com/YCCS-Summer-2023-DLCV/Deep-Learning-in-Computer-Vision',
-      }
+      },
+      {
+        title: 'MAC-CBS'
+      },
     ],
     // Display blog posts from your medium or dev account. (Optional)
     blog: {
