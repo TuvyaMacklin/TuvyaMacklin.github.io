@@ -11,7 +11,7 @@ const config = {
           'TuvyaMacklin.github.io',
           'Boss-Monster',
           '4570H-23-web',
-          'MAC_CBS'
+          'MAC-CBS'
         ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
       },
     },
