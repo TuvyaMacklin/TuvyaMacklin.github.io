@@ -42,12 +42,25 @@ const config = {
       'Python',
       'C',
       'TensorFlow',
+      'Keras',
+      'PyTorch',
+      'NumPy',
+      'Pandas',
+      'Matplotlib',
+      'GenSim',
+      'NLTK',
+      'LangChain',
       'Maven',
       'FiftyOne',
       'Git',
       'Docker',
       'FastAPI',
       'AWS',
+      'Flask',
+      'MongoDB',
+      'PostgreSQL',
+      'Redis',
+      'Spark'
     ],
     experiences: [
       {
@@ -66,7 +79,7 @@ const config = {
       },
         {
             company: 'Bar-Ilan University',
-            position: 'Reseatcher',
+            position: 'Researcher',
             from: 'June 2024',
             to: 'July 2024',
             companyLink: 'https://engineering.biu.ac.il/en/node/12692',
@@ -95,7 +108,7 @@ const config = {
         title: 'Ingredient Substitution',
         description:
           'An AI-powered web application that uses word embeddings and machine learning to suggest dietary-friendly ingredient substitutions based on semantic similarity.',
-        imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.washingtonpost.com%2Frecipes%2Fclassic-grilled-hamburger%2F&psig=AOvVaw1C5p4JvZW4RCqPrDIgxCZl&ust=1747500741128000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCQ1Nq5qI0DFQAAAAAdAAAAABAE',
+        imageUrl: 'https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M6HASPARCZHYNN4XTUYT7H6PTE.jpg&w=1600&h=900',
         link: 'https://github.com/ezramuskat/Ingredient-Substitution-Capstone',
       },
       {
@@ -109,7 +122,7 @@ const config = {
         title: 'MAC CBS',
         description:
           'Research into MAC-CBS as a potential new splitting method for resolving conflicts in a CBS algorithm, under the guidance of Dr. Dor Atzmon of Bar-Ilan University.',
-        imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Froad-route-map-icon%2F&psig=AOvVaw3yvZZlJbDASKYt-Vcwq55F&ust=1747500659337000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCskcC5qI0DFQAAAAAdAAAAABAE',
+        imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-MB8TAGt82Im1qzCKq8hcEHDcq163qn1e9w&s',
         link: 'https://github.com/TuvyaMacklin/MAC-CBS',
       },
     ],
