@@ -92,6 +92,13 @@ const config = {
     // To hide the `My Projects` section, keep it empty.
     externalProjects: [
       {
+        title: 'Ingredient Substitution',
+        description:
+          'An AI-powered web application that uses word embeddings and machine learning to suggest dietary-friendly ingredient substitutions based on semantic similarity.',
+        imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.washingtonpost.com%2Frecipes%2Fclassic-grilled-hamburger%2F&psig=AOvVaw1C5p4JvZW4RCqPrDIgxCZl&ust=1747500741128000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCQ1Nq5qI0DFQAAAAAdAAAAABAE',
+        link: 'https://github.com/ezramuskat/Ingredient-Substitution-Capstone',
+      },
+      {
         title: 'Deep Learning in Computer Vision',
         description:
           'Object detection and instance segmentation model created in the YU CS summer program',
@@ -102,7 +109,7 @@ const config = {
         title: 'MAC CBS',
         description:
           'Research into MAC-CBS as a potential new splitting method for resolving conflicts in a CBS algorithm, under the guidance of Dr. Dor Atzmon of Bar-Ilan University.',
-        imageUrl: 'https://avatars.githubusercontent.com/u/135040186?s=48&v=4',
+        imageUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Froad-route-map-icon%2F&psig=AOvVaw3yvZZlJbDASKYt-Vcwq55F&ust=1747500659337000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCskcC5qI0DFQAAAAAdAAAAABAE',
         link: 'https://github.com/TuvyaMacklin/MAC-CBS',
       },
     ],
